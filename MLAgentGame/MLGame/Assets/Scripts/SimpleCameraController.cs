@@ -67,7 +67,7 @@ namespace UnityTemplateProjects
         [Tooltip("Time it takes to interpolate camera rotation 99% of the way to the target."), Range(0.001f, 1f)]
         public float rotationLerpTime = 0.01f;
 
-        [Tooltip("Whether or not to invert our Y axis for mouse input to rotation.")]
+        [Tooltip("Whether or not to invert our Y axis for mouse input to rotation. ")]
         public bool invertY = false;
 
         void OnEnable()

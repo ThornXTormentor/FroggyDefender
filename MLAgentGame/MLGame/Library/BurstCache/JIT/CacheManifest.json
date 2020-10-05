@@ -3,7 +3,7 @@
   "Assemblies": [
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2020-10-02T19:53:45.2739776Z"
+      "LastWriteTime": "2020-10-04T21:39:38.2626453Z"
     },
     {
       "FullName": "netstandard, Version=2.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
@@ -19,7 +19,7 @@
     },
     {
       "FullName": "Unity.Barracuda.BurstBLAS, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2020-10-02T19:53:47.5503761Z"
+      "LastWriteTime": "2020-10-04T21:39:40.0438808Z"
     },
     {
       "FullName": "mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -27,14 +27,14 @@
     },
     {
       "FullName": "Unity.Barracuda, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2020-10-02T19:53:46.8007437Z"
+      "LastWriteTime": "2020-10-04T21:39:39.0924269Z"
     }
   ],
   "Functions": [
     {
       "FullName": "System.Int32 Unity.Burst.Intrinsics.X86::DoGetCSRTrampoline()",
       "ModuleOptionsHash": 8794384452606821980,
-      "ModuleHash": "5c7428e6b58950defa7dd30bf681c417",
+      "ModuleHash": "f1601afae09415e92ccd86cf8dbfb02f",
       "LinkName": "CDCA4A5193BE5947",
       "AssemblyDependencyIndices": [
         0,
@@ -45,7 +45,7 @@
     {
       "FullName": "System.Void Unity.Burst.Intrinsics.X86::DoSetCSRTrampoline(System.Int32)",
       "ModuleOptionsHash": 8794384452606821980,
-      "ModuleHash": "10c41fe8c848cc66f10c7e21529f6434",
+      "ModuleHash": "ec0bebf163e239b1a834894402d5fa59",
       "LinkName": "801E9A000BB37B05",
       "AssemblyDependencyIndices": [
         0,
@@ -56,7 +56,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<Unity.Barracuda.UnsafeMatrixBlockMultiplyUnrolled8xhJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 8794384452606821980,
-      "ModuleHash": "d8e6c021d45f2ad4e25cf9c6f774a067",
+      "ModuleHash": "d99ddf33d73ac4a9a6a01c61aff28829",
       "LinkName": "C1C6C1D457935913",
       "AssemblyDependencyIndices": [
         3,

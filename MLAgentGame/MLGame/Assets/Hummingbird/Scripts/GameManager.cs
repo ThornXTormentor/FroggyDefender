@@ -6,6 +6,8 @@ using UnityEngine;
 /// </summary>
 public class GameManager : MonoBehaviour
 {
+    public GameObject dragonflyPrefab;
+    public GameObject[] spawnPoints;
     [Tooltip("Game ends when an agent collects this much nectar")]
     public float maxNectar = 8f;
 

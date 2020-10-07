@@ -375,7 +375,7 @@ public class HummingBirdAgent : Agent
 
                 // Attempt to take .01 nectar
                 // Note: this is a per fixed timestep, meaning it happens every .02 seconds, or 50x per second
-                float nectarReceived = flower.Feed(.01f);
+                float nectarReceived = flower.Feed(.2f);
 
                 //Keep track of nectar obtained
                 NectarObtained += nectarReceived;

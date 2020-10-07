@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-MLAgentsMinigame/FroggyDefender/[Ll]ibrary/
-MLAgentsMinigame/FroggyDefender/[Tt]emp/
-MLAgentsMinigame/FroggyDefender/[Oo]bj/
-MLAgentsMinigame/FroggyDefender/[Bb]uild/
-MLAgentsMinigame/FroggyDefender/[Bb]uilds/
-MLAgentsMinigame/FroggyDefender/[Ll]ogs/
-MLAgentsMinigame/FroggyDefender/[Uu]ser[Ss]ettings/
+MLAgentGame/MLGame/[Ll]ibrary/
+MLAgentGame/MLGame/[Tt]emp/
+MLAgentGame/MLGame/[Oo]bj/
+MLAgentGame/MLGame/[Bb]uild/
+MLAgentGame/MLGame/[Bb]uilds/
+MLAgentGame/MLGame/[Ll]ogs/
+MLAgentGame/MLGame/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data

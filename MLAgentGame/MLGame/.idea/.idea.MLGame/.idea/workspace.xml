@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb6f042f-a8f0-457c-a27a-bb33451fb2de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Dragonfly_Mat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Dragonfly_Mat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Egg_mat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Egg_mat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Frog_mat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Frog_mat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Water.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Materials/Environment/Water.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/NNModels/originalNN.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/NNModels/originalNN/Hummingbird.nn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/NNModels/originalNN/Hummingbird.nn.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/Dragonfly Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/Dragonfly Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/Frog Player Variant.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/Frog Player Variant.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FrogEgg.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FrogEgg.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/NNModels/Hummingbird.nn" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/NNModels/Hummingbird.nn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/NNModels/Hummingbird.nn.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/NNModels/Hummingbird.nn.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/BushCluster.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/BushCluster.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FloatingIsland.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FloatingIsland.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FlowerBud.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FlowerBud.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FlowerPlant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/Prefabs/FlowerPlant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/Scenes/FlowerIsland.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/Scenes/FlowerIsland.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hummingbird/Scripts/HummingBirdAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hummingbird/Scripts/HummingBirdAgent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ML-Agents/Timers/FlowerIsland_timers.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ML-Agents/Timers/FlowerIsland_timers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5f/5f572cf683459453bbe279dff59455b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB-lock" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-423815a9aec87fb48b.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-423815a9aec87fb48b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-4ae36240683645a4d9.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-4ae36240683645a4d9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-681ae66681fb7c0409.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-681ae66681fb7c0409.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/732622-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-423815a9aec87fb48b.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-423815a9aec87fb48b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-4ae36240683645a4d9.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-4ae36240683645a4d9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-681ae66681fb7c0409.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-681ae66681fb7c0409.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/df8538-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1iWuMWp109KjOTh6MSX4kZmIzkj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb6f042f-a8f0-457c-a27a-bb33451fb2de" name="Default Changelist" comment="" />
+      <created>1602035623576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602035623576</updated>
+      <workItem from="1602035628764" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="2283" height="1256" maximized="true" key="DiffContextDialog" timestamp="1602036048322">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state x="92" y="92" width="2283" height="1256" maximized="true" key="DiffContextDialog/-1920.0.1827.1080/0.0.2467.1440@0.0.2467.1440" timestamp="1602036048322" />
+    <state x="825" y="452" key="Vcs.Push.Dialog.v2" timestamp="1602035699276">
+      <screen x="0" y="0" width="2467" height="1440" />
+    </state>
+    <state x="825" y="452" key="Vcs.Push.Dialog.v2/-1920.0.1827.1080/0.0.2467.1440@0.0.2467.1440" timestamp="1602035699276" />
+  </component>
+</project>
